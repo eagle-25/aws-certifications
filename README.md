@@ -1,13 +1,15 @@
-<img src="img/aws certified logo.png" width="80%">
-# aws-certifications
----
+<img src="img/aws certified logo.png" width="50%">
+
+# AWS Certifications
+
 This repository is used to record AWS study logs and achievements.
 
-Due to the copyright regulatory complience, some materials may hidden or removed.
+Due to the copyright regulatory complience of study materials, some materials may be hidden or removed.
+
 Also, Practice exam Review linked to notion may not be accessible for the same reason. 
 
 ## Achieved Certifications
----
+
 <!--START_SECTION:badges-->
 
 [![AWS Certified Developer – Associate](https://images.credly.com/size/160x160/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/4f1dc234-d417-4b82-ad1b-0855b3169286 "AWS Certified Developer – Associate")
@@ -16,11 +18,3 @@ Also, Practice exam Review linked to notion may not be accessible for the same r
 
 1. AWS Certified Solution Architect - Associate (SAA-C02), 07/21/2022
 2. AWS Certified Developer - Associate (DVA-C01), 09/15/2022
-
-### Certification Images
----
-1. SAA-C02
-  <img src="img/SAA-C02 Certification.png" width="50%">
-
-2. DVA-C01
-  <img src="img/DVA-C01 Certification.png" width="50%"> 
