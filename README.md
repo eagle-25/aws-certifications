@@ -1,2 +1,2 @@
 # aws-certifications
-This repository is used to record AWS study logs.
+This repository is used to record AWS study logs and achievements.
