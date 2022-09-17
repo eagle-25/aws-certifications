@@ -2,7 +2,7 @@
 
 # AWS Certifications
 
-This repository is used to record AWS study logs and achievements.
+This repository is meant to record AWS study logs and achievements.
 
 Due to the copyright regulatory complience of study materials, some materials may be hidden or removed.
 
