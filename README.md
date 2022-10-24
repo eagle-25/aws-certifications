@@ -6,7 +6,7 @@ This repository is meant to record AWS study logs and achievements.
 
 Due to the copyright regulatory complience of the study materials, it might be hidden or removed.
 
-Also, Practice exam Review page linked to notion may not be accessible for the same reason. 
+Also, Practice exam Review logs which linked to notion may not be accessible for the same reason. 
 
 ## Achieved Certifications
 
